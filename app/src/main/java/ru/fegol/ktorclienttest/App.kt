@@ -1,6 +1,6 @@
 package ru.fegol.ktorclienttest
 
-import androidx.multidex.MultiDexApplication
+import android.app.Application
 
-class App : MultiDexApplication() {
+class App : Application() {
 }
